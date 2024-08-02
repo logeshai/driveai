@@ -68,4 +68,4 @@ Drive-AI v0.1-alpha
 
 ### own
 
-*Logesh B
+*Logesh Balaji
